@@ -19,3 +19,4 @@ function Onclick() {
     }
 }
 image.onclick = Onclick
+
